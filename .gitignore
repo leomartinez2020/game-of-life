@@ -2,7 +2,8 @@
 node_modules
 /dist
 
-
+# Secret stuff
+secret*
 # local env files
 .env.local
 .env.*.local
