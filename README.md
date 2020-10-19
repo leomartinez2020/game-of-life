@@ -37,5 +37,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live demo
+See [Conway's game of life](https://leomartinez2019.github.io/game-of-life/).
