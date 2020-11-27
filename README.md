@@ -38,4 +38,4 @@ npm run lint
 ```
 
 ### Live demo
-See [Conway's game of life](https://leomartinez2019.github.io/game-of-life/).
+See [Conway's game of life](https://leomartinez2020.github.io/game-of-life/).
